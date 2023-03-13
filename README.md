@@ -1,16 +1,23 @@
-### Hi there 👋
+# LegacyVaper
 
-<!--
-**LegacyVaper/LegacyVaper** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## Experienced Developer | Reverse Engineer | Vulnerability Scanning Expert
 
-Here are some ideas to get you started:
+👋 Welcome to my GitHub profile! I'm LegacyVaper, a seasoned developer with a passion for solving complex problems and pushing the boundaries of what's possible.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Skills and Expertise
+
+🚀 I have extensive experience in a wide range of programming languages, including **Python**, **C++**, **Assembly**, and **Java**.
+
+💡 My expertise extends to areas such as **reverse engineering**, **vulnerability scanning**, and **malware analysis**.
+
+🎓 I'm a lifelong learner and am constantly seeking new challenges and opportunities to expand my knowledge and skills.
+
+### What I'm working on
+
+🔭 Currently, I'm focused on developing **advanced projects** that leverage cutting-edge technology and innovative techniques.
+
+💻 I'm also exploring the latest tools and methods in **reverse engineering** and **vulnerability scanning**, with a particular focus on uncovering and exploiting **hidden vulnerabilities**.
+
+### Connect with me
+
+👉 **Discord:** LegacyVaper#8812
