@@ -21,3 +21,5 @@
 ### Connect with me
 
 👉 **Discord:** LegacyVaper#8812
+
+![](https://komarev.com/ghpvc/?username=LegacyVaper)
